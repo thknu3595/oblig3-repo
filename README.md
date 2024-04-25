@@ -6,6 +6,8 @@ Github brukernavn: thknu3595
 
 Githup-repo URL : https://github.com/thknu3595/oblig3-repo
 
+Youtube video LINK : https://youtu.be/qwfZwnPTJLg?si=qiM7Hm6hkAJAQqTi 
+
 Fullt navn : Thomas Knutsen
 
 Studentnummer : 386108
